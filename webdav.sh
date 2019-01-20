@@ -22,4 +22,4 @@ read web
 curl -T /sdcard/$sc $web
 echo "${y} [OUTPUT]=" $web/$sc | lolcat
 
-[Coding by Gilang]
+#[Coding by Gilang]
